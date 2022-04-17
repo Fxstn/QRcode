@@ -1,0 +1,13 @@
+body {
+	background-color: hsl(212, 45%, 89%);
+}
+.qr {
+	padding: 15px;
+	border-radius: 20px;
+	width: 18rem;
+	text-align: center;
+	margin: 10% auto;
+}
+.qrImg {
+	border-radius: 20px;
+}
